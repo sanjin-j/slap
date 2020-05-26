@@ -1,0 +1,38 @@
+
+
+
+
+
+
+.anime{
+  margin-top: -300px;
+  z-index: -1;
+  background-repeat: no-repeat;
+ 
+}
+.relex{
+ 
+  color: #fff;
+  margin-top: 150px;
+  background-color: rgba(0, 0, 0, 0.294);
+
+}
+.crna{
+  background-color: rgba(0, 0, 0, 0.733);
+}
+.pozadina{
+  background-color: rgba(10, 7, 7, 0.603);
+  color: white;
+}
+.card1{
+  background-color: rgba(0, 0, 0, 0.637);
+  margin-top: 250px;
+}
+
+.navbar {
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.473);
+}
+
+
+
